@@ -1,5 +1,5 @@
 import os
-import sys
+
 
 def check_reboot():
     """Return True if the computer has a pending reboot."""
